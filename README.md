@@ -1,5 +1,15 @@
 # trappist-one-syntax theme
 
-A short description of your theme.
+A dark syntax theme for Atom inspired by Trappist-1
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## HTML
+![html screenshot of trappist-1](html.png)
+
+## CSS
+![html screenshot of trappist-1](css.png)
+
+## JAVASCRIPT
+![javascript screenshot of trappist-1](javascript.png)
+
+## PHP
+![php screenshot of trappist-1](php.png)
