@@ -1,4 +1,4 @@
-# trappist-one-syntax theme
+# Trappist-1 syntax theme
 
 A dark syntax theme for Atom inspired by Trappist-1
 
