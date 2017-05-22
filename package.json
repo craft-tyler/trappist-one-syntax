@@ -2,7 +2,7 @@
   "name": "trappist-one-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A short description of your syntax theme",
+  "description": "A dark syntax theme for Atom inspired by Trappist-1",
   "keywords": [
     "syntax",
     "theme"
